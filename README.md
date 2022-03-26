@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Plaikrub
-- 👀 I’m interested in Programming, Game Development
-- 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on Game Development
+- 👀 I’m interested in Programming, WebDev
+- 🌱 I’m currently learning Svelte/Rust
+- 💞️ I’m looking to collaborate on WebDev
 - 📫 How to reach me Discord Plaikrub#5406, [artsada.choichueadee@gmail.com](mailto:artsada.choichueadee@gmail.com)
 
 <!---
